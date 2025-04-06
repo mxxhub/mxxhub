@@ -1,5 +1,5 @@
 <div align="center">
-  ### **Contact**
+  **Contact**
 
 Feel free to contact me on any of the following
 
@@ -69,7 +69,4 @@ Feel free to contact me on any of the following
    ![Oracle](https://img.shields.io/badge/Oracle-47A248?style=for-the-badge)
    
   </div>
-
----
-
 </div>
