@@ -1,19 +1,5 @@
 <div align="center">
-  **Contact**
-
-Feel free to contact me on any of the following
-
-  <div>
-    
-   **Discord:** @goodestimate
-   
-   **Telegram:** @bamxtrebher
-   
-  </div>
-
----
-
-### **Tech Stack**
+<h1>Tech Stack</h1>
 
 **Languages**
 
@@ -43,6 +29,8 @@ Feel free to contact me on any of the following
     
    ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
    ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+   ![Node](https://img.shields.io/badge/Node-greenyellow?style=for-the-badge)
+   ![Bun](https://img.shields.io/badge/Bun-512BD4?style=for-the-badge&logo=bun&logoColor=white)
    
   </div>
 
@@ -56,8 +44,6 @@ Feel free to contact me on any of the following
    
   </div>
 
-  </div>
-
 **Databases**
 
   <div>
@@ -67,6 +53,18 @@ Feel free to contact me on any of the following
    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Oracle](https://img.shields.io/badge/Oracle-47A248?style=for-the-badge)
+   
+  </div>
+
+  <h1>Contact</h1>
+
+Feel free to contact me on any of the following
+
+  <div>
+    
+   **Discord:** @goodestimate
+   
+   **Telegram:** @bamxtrebher
    
   </div>
 </div>
