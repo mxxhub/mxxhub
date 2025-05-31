@@ -64,7 +64,7 @@ Feel free to contact me on any of the following
     
    **Discord:** @goodestimate
    
-   **Telegram:** @bamxtrebher
+   **Telegram:** @mxxhub
    
   </div>
 </div>
