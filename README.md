@@ -48,10 +48,10 @@
 
   <div>
     
-   ![Oracle](https://img.shields.io/badge/Make-47A248?style=for-the-badge)
-   ![Oracle](https://img.shields.io/badge/n8n-47A248?style=for-the-badge)
-   ![Oracle](https://img.shields.io/badge/Zapier-47A248?style=for-the-badge)
-   ![Oracle](https://img.shields.io/badge/Landbot-47A248?style=for-the-badge)
+   ![Make.com](https://img.shields.io/badge/Make-47A248?style=for-the-badge)
+   ![N8N](https://img.shields.io/badge/n8n-61DAFB?style=for-the-badge)
+   ![Zapier](https://img.shields.io/badge/Zapier-512BD4?style=for-the-badge)
+   ![Landbot](https://img.shields.io/badge/Landbot-512BD4?style=for-the-badge)
    
   </div>
 
