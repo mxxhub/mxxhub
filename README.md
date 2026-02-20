@@ -69,13 +69,13 @@
 
   <h1>Contact</h1>
 
-Feel free to contact me on any of the following
+//Feel free to contact me on any of the following
 
-  <div>
+//  <div>
     
-   **Discord:** @goodestimate
+//   **Discord:** @mxxhub
    
-   **Telegram:** @mxxhub
+//   **Telegram:** https://t.me/mxxhub
    
-  </div>
+//  </div>
 </div>
