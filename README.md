@@ -71,6 +71,7 @@
 Feel free to contact me on any of the following
 
   <div>
+   Email: dignity.mine@gmail.com
     
    Discord: @mxxhub
    
