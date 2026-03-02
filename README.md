@@ -66,4 +66,16 @@
    ![Oracle](https://img.shields.io/badge/Oracle-47A248?style=for-the-badge)
    
   </div>
+  <h1>Contact</h1>
+
+Feel free to contact me on any of the following
+
+  <div>
+   Email: dignity.mine@gmail.com
+    
+   Discord: @mxxhub
+   
+   Telegram: https://t.me/mxxhub
+   
+  </div>
 </div>
